@@ -16,7 +16,7 @@ Steps:
     sproutcore init myapp; cd myapp
 
 * Clone garçon
-    git clone --recursive git://github.com/martoche/garcon.git
+    git clone --recursive git://github.com/erichocean/garcon.git
 
 * Clone SproutCore
     git clone git://github.com/sproutcore/sproutcore.git frameworks/sproutcore
